@@ -45,4 +45,3 @@ Open a notebook in [Google Colab](https://colab.research.google.com/) or Jupyter
 
 Based on *Financial Theory with Python* by Yves J. Hilpisch and coursework from The Python Quants. These are my worked notebooks, not official course solutions.
 
-**Separate algorithm research:** [ExactFrac](https://github.com/Cherine-Fons/ExactFrac)
